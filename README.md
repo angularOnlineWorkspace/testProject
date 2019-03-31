@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+##Some nonsense
+
+function lazygit() {
+    git add .
+    git commit -a -m "$1"
+    git push
+}
+
+or sudo git commit -a -m "Mar 31 update2" && sudo git push origin mast
