@@ -23,7 +23,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/jqwidgets-scripts/jqwidgets/styles/jqx.base.css",
+              "node_modules/jqwidgets-scripts/jqwidgets/styles/jqx.material.css"
             ],
             "scripts": [],
             "es5BrowserSupport": true
